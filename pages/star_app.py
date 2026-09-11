@@ -19,7 +19,7 @@ import streamlit as st
 
 SUN_T = 5772.0
 
-st.set_page_config(page_title="AppStar", layout="wide")
+# st.set_page_config(page_title="AppStar", layout="wide")
 
 st.markdown("""<style>
 .stApp {background-color: #000000;}
