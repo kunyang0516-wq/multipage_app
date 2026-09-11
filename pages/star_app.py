@@ -26,7 +26,7 @@ st.markdown("""<style>
 .stApp, .stApp p, .stApp label {color: #e8e8e8;}
 .block-container {padding-top: 0.4rem; padding-bottom: 0.3rem;
                   max-width: 1000px;}
-header[data-testid="stHeader"] {display: none;}
+# header[data-testid="stHeader"] {display: none;}
 h1, h2, h3 {padding-top: 0 !important; margin: 0 0 0.2rem !important;
             color: #f0f0f0;}
 form.vega-bindings {display: flex; justify-content: center;
